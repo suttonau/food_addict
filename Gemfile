@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'rack-cors', require: 'rack/cors'
 
+gem 'active_model_serializers', '~> 0.10.0'
+
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
