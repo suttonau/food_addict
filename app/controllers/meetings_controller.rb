@@ -18,7 +18,7 @@ class MeetingsController < ApplicationController
   end
 
   def destroy
-    render json: Meeting.find(params[:id].destroy
+    render json: Meeting.find(params[:id]).destroy
   end
 
   private
