@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  meeting_id: one
+  location_id: one
+  users: MyString
+
+two:
+  meeting_id: two
+  location_id: two
+  users: MyString
