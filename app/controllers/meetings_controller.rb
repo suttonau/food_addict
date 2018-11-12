@@ -7,6 +7,7 @@ class MeetingsController < ApplicationController
 
   def show
     render json: Meeting.find(params[:id])
+
   end
 
   def create
